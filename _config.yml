@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: Anodex Finishing, Inc.
+email: anodex@anodex.com
 description: > # this means to ignore newlines until "baseurl:"
+    Anodex Finishing, Inc specialized in high quality metal finishing services such as anodizing, powder coating, chromate conversion, and passivation.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "http://anodex.com/" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+facebook_username: AnodexFinishing
 
 # Build settings
 markdown: kramdown
